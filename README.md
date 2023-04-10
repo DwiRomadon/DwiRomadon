@@ -28,4 +28,4 @@
 #### IDEs/ Text Editor
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Andorid%20Studi-green/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Andorid%20Studi-green?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
