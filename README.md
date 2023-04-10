@@ -16,7 +16,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
