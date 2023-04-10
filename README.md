@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi There, I'm Ahmad 👨‍💻
+- 🌱 Im currently learning Web and Mobile Technology
+- 💬 Ask me about this repository
+- 📫 How to reach me: [@ahmdsk._](https://instagram.com/ahmdsk._)
+- 😄 Pronouns: He/Him
+- 💼 Job role: Ctrl + C and Ctrl + V
 
-<!--
-**DwiRomadon/DwiRomadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language And Tools
+![My Skills](https://skills.thijs.gg/icons?i=php,laravel,javascript,typescript,vue,react,expressjs,nodejs,vite,bootstrap,tailwindcss,scss,mysql,postgresql,firebase,mongodb,vscode,git&theme=light)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdsk&show_icons=true&theme=nord&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmdsk&theme=nord&hide_border=true)
