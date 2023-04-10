@@ -10,7 +10,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Node JS](https://img.shields.io/badge/-Nodejs-green?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-yellowgreen?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
 #### Database
 
